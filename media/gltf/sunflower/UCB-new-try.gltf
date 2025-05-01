@@ -421,33 +421,33 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"Textures-01v3.mp4",
-			"uri":"../../Tunnel/Textures-01v3.mp4"
+			"name":"Textures-01v3",
+			"uri":"textures-gg/Textures-01v3.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"texture-02v2.mp4",
-			"uri":"../../Tunnel/texture-02v2.mp4"
+			"name":"texture-02v2",
+			"uri":"textures-gg/texture-02v2.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Final-green-to-animate-v3.mp4",
-			"uri":"../../Tunnel/Final-green-to-animate-v3.mp4"
+			"name":"Final-green-to-animate-v3",
+			"uri":"textures-gg/Final-green-to-animate-v3.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"flower animation-tunnel-final.mp4.001",
-			"uri":"../../Tunnel/flower%20animation-tunnel-final.mp4"
+			"name":"flower animation-tunnel-final.mp4",
+			"uri":"textures-gg/flower%20animation-tunnel-final_mp4.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"plank.psd",
-			"uri":"../../plank.psd"
+			"name":"plank",
+			"uri":"textures-gg/plank.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"rope.psd",
-			"uri":"../../rope.psd"
+			"name":"rope",
+			"uri":"textures-gg/rope.png"
 		}
 	],
 	"accessors":[
@@ -867,7 +867,7 @@
 	"buffers":[
 		{
 			"byteLength":126456,
-			"uri":"UCB-tunnel-v-resized-01.bin"
+			"uri":"UCB-new-try.bin"
 		}
 	]
 }
